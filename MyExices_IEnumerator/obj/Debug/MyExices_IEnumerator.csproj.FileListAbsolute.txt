@@ -1,0 +1,7 @@
+D:\Unity\Client\Leeco\MyExices_IEnumerator\bin\Debug\MyExices_IEnumerator.exe.config
+D:\Unity\Client\Leeco\MyExices_IEnumerator\bin\Debug\MyExices_IEnumerator.exe
+D:\Unity\Client\Leeco\MyExices_IEnumerator\bin\Debug\MyExices_IEnumerator.pdb
+D:\Unity\Client\Leeco\MyExices_IEnumerator\obj\Debug\MyExices_IEnumerator.csproj.AssemblyReference.cache
+D:\Unity\Client\Leeco\MyExices_IEnumerator\obj\Debug\MyExices_IEnumerator.csproj.CoreCompileInputs.cache
+D:\Unity\Client\Leeco\MyExices_IEnumerator\obj\Debug\MyExices_IEnumerator.exe
+D:\Unity\Client\Leeco\MyExices_IEnumerator\obj\Debug\MyExices_IEnumerator.pdb
